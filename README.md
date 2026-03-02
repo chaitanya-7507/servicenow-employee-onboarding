@@ -52,5 +52,5 @@ The application streamlines a common business workflow, replacing **manual, erro
 ---
 
 ## Author
-**Sruthi Chandana Kandipilli**  
+**Chaitanya**  
 _Project developed as part of ServiceNow portfolio showcase._  
